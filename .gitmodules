@@ -1,0 +1,3 @@
+[submodule "app/Plugin/CakeTurboLinks"]
+	path = app/Plugin/CakeTurboLinks
+	url = git@github.com:sanojimaru/CakeTurboLinks.git
