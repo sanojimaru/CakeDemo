@@ -8,4 +8,5 @@ App::uses('Debugger', 'Utility');
 
 <ul>
     <li><?php echo $this->Html->link('TurboLinks', array('controller' => 'posts', 'action' => 'index')); ?></li>
+    <li><?php echo $this->Html->link('CakeAssets', array('controller' => 'pages', 'action' => 'test_assets')) ?></li>
 </ul>
